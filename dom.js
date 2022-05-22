@@ -5,6 +5,7 @@ document.getElementsByClassName("main")[0].innerHTML="I'am in 21 years old"
 document.querySelectorAll(".main")[0].innerHTML="I study in northern university khulna"
 document.querySelector("h2").innerHTML="my home town Chuadanga"
 
+
 const paragraph= document.createElement("p");
 paragraph.innerText = "I am full stack developer";
 document.body.appendChild(paragraph);
